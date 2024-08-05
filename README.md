@@ -1,1 +1,1 @@
-The Electronic Old Persian Library (EOPL) organisatoin is under [CC-BY-NC](https://github.com/Electronic-Old-Persian-Library/LICENSE-CC-BY-NC/blob/main/LICENSE-CC-BY-NC) license and any commercial use is prohibited.
+The Electronic Old Persian Library (EOPL) organization is under [CC-BY-NC](https://github.com/Electronic-Old-Persian-Library/LICENSE-CC-BY-NC/blob/main/LICENSE-CC-BY-NC) license and any commercial use is prohibited.
